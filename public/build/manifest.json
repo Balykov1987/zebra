@@ -1,0 +1,17 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-68437240.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/constructor.js": {
+    "file": "assets/constructor-d78b4f8e.js",
+    "isEntry": true,
+    "src": "resources/js/constructor.js"
+  }
+}
